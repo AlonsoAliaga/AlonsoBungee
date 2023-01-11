@@ -9,6 +9,7 @@ The plugin just allows my spigot plugins to interact with BungeeCord level.\
 **Install it only if the plugin requires it for additional features.**
 ## Resources
 - [Spigot resource (Not released)](https://github.com/AlonsoAliaga/AlonsoBungee/)
+- [Download](https://github.com/AlonsoAliaga/AlonsoBungee/releases)
 - [Wiki](https://github.com/AlonsoAliaga/AlonsoBungee/wiki)
 - [Issue tracker](https://github.com/AlonsoAliaga/AlonsoBungee/issues)
 - [Donate](https://paypal.me/AlonsoAliaga)
